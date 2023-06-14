@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "actor-event-sourcing", "actor-event-sourcing\actor-event-sourcing.csproj", "{D3189F1A-0FD5-45CE-9CBC-46C93A87032E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3189F1A-0FD5-45CE-9CBC-46C93A87032E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3189F1A-0FD5-45CE-9CBC-46C93A87032E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3189F1A-0FD5-45CE-9CBC-46C93A87032E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3189F1A-0FD5-45CE-9CBC-46C93A87032E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F23385B-7526-483C-87FE-68EE040FABBB}
+	EndGlobalSection
+EndGlobal
